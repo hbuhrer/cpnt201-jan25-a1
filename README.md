@@ -6,7 +6,6 @@ This is an activity where we code in a pair inside the README.md file as practic
 - Add a brief description and task list.
 - Include a relevant website link.
 - Commit and push changes; ensure partner synchronization through pulls.
-
 <br>
 
 ### [More About Pair Programming](https://www.codementor.io/pair-programming)
