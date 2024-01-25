@@ -10,3 +10,4 @@ This is an activity where we code in a pair inside the README.md file as practic
 ### [More About Pair Programming](https://www.codementor.io/pair-programming)
 
 I wonder if we can solve this *GIT MERGE CONFLICT!*
+Conflict Solved, Activity Completed
