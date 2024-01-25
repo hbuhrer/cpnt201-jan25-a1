@@ -8,3 +8,5 @@ This is an activity where we code in a pair inside the README.md file as practic
 - Commit and push changes; ensure partner synchronization through pulls.
 
 ### [More About Pair Programming](https://www.codementor.io/pair-programming)
+
+# CONFLICT TEST
